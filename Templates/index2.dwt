@@ -1,8 +1,12 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>C#LightEvil MainPage</title>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>无标题文档</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
 <style type="text/css">
 <!--
 body {
@@ -72,7 +76,6 @@ a:hover, a:active, a:focus { /* 此组选择器将为键盘导航者提供与鼠
 .footer {
 	padding: 10px 0;
 	background-color: #6F7D94;
-	text-align: right;
 }
 
 /* ~~ 其它浮动/清除类 ~~ */
@@ -96,9 +99,11 @@ a:hover, a:active, a:focus { /* 此组选择器将为键盘导航者提供与鼠
 <body>
 
 <div class="container">
-  <div class="header">
-    <h1>C#LightEvil MainPage</h1>
-  <!-- end .header --></div>
+  <div class="header"><!-- end .header --><img src="../imgs/icon.png" alt="" width="128" height="128" usemap="#Map">
+    <map name="Map" id="Map">
+      <area shape="rect" coords="7,12,114,118" href="#" target="https://github.com/lightszero/CSLightStudio " alt="">
+    </map>
+  </div>
   <div class="content">
     <p>C#LightEvil 是一个动态脚本语言，就像lua.</p>
     <p> C#LightEvil is a dynamic script language，like LUA.</p>
@@ -106,34 +111,15 @@ a:hover, a:active, a:focus { /* 此组选择器将为键盘导航者提供与鼠
     <p> and the diffrent is C#LightEvil is writed by Pure C#,it&#39;s so close to DotNet.</p>
     <p> 他能为Unity等dotnet开发环境提供动态脚本支持，可以简单的完成逻辑热更新。</p>
     <p> C#LightEvil support platform of Dotnet for Dynamic Execute Scirpt，Eg:in Unity,Can be hot updated so easy.</p>
-    <table width="70%" border="1" align="center">
-      <tr>
-        <td width="46%"><p><img src="imgs/icon.png" width="256" height="256" usemap="#Map2" border="0" /></p>
-        <p>Got code In GITHUB</p></td>
-        <td width="54%"><p><img src="imgs/book.jpg" width="256" height="247" usemap="#Map" border="0" /></p>
-        <p>Got how to use it in Unity</p></td>
-      </tr>
-      <tr>
-        <td><p>这里一个在线测试，一个表达式计算器，可以执行c#表达式</p>
-          <p>This is a test online,a calculator who can execute c# code.</p>
-        <a href="unity_eval.html">OnlineTestLink</a></td>
-        <td>&nbsp;</td>
-      </tr>
-    </table>
-    <h1>&nbsp;</h1>
+You can got it in <a href ="https://github.com/lightszero/CSLightStudio">https://github.com/lightszero/CSLightStudio </a>
+<p>这里一个在线测试，一个表达式计算器，可以执行c#表达式</p>
+<p>This is a test online,a calculator who can execute c# code.</p>
+<a href="../unity_eval.html">Unity Test</a>
+<h1>&nbsp;</h1>
     <!-- end .content --></div>
   <div class="footer">
-    <p>Crazylights</p>
-    <p>疯光无线 诚品</p>
+    <p>脚注</p>
     <!-- end .footer --></div>
   <!-- end .container --></div>
-
-<map name="Map" id="Map">
-  <area shape="rect" coords="7,7,248,241" href="http://www.cnblogs.com/crazylights/p/3897742.html" />
-</map>
-
-<map name="Map2" id="Map2">
-  <area shape="rect" coords="16,14,241,251" href="https://github.com/lightszero/CSLightStudio" />
-</map>
 </body>
 </html>

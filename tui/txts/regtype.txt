@@ -1,7 +1,13 @@
 Xamarin.Forms.Page,Xamarin.Forms.Core:Page
 Xamarin.Forms.ContentPage,Xamarin.Forms.Core:ContentPage
+
+Xamarin.Forms.StackLayout,Xamarin.Forms.Core:StackLayout
 Xamarin.Forms.Button,Xamarin.Forms.Core:Button
 Xamarin.Forms.Image,Xamarin.Forms.Core:Image
+
+Xamarin.Forms.FileImageSource,Xamarin.Forms.Core:FileImageSource
+Xamarin.Forms.ImageSource,Xamarin.Forms.Core:ImageSource
+Xamarin.Forms.INavigation,Xamarin.Forms.Core:INavigation
 Xamarin.Forms.Color,Xamarin.Forms.Core:Color
 System.Object:object
 AppMix.App:App

@@ -1,4 +1,4 @@
-﻿Xamarin.Forms.Page,Xamarin.Forms.Core.dll,Page
+Xamarin.Forms.Page,Xamarin.Forms.Core.dll,Page
 Xamarin.Forms.ContentPage,Xamarin.Forms.Core.dll,ContentPage
 Xamarin.Forms.Button,Xamarin.Forms.Core.dll,Button
 Xamarin.Forms.Color,Xamarin.Forms.Core.dll,Color

@@ -1,5 +1,8 @@
 Xamarin.Forms.Page,Xamarin.Forms.Core:Page
 Xamarin.Forms.ContentPage,Xamarin.Forms.Core:ContentPage
 Xamarin.Forms.Button,Xamarin.Forms.Core:Button
+Xamarin.Forms.Image,Xamarin.Forms.Core:Image
 Xamarin.Forms.Color,Xamarin.Forms.Core:Color
 System.Object:object
+System.EventHandler:EventHandler
+System.EventArgs:EventArgs

@@ -15,5 +15,13 @@ Xamarin.Forms.Color,Xamarin.Forms.Core:Color
 System.Object:object
 AppMix.App:App
 System.EventArgs:EventArgs
+//RegMyJson
+MyJson,lib40:MyJson
+MyJson+jsontype,lib40:MyJson.jsontype
+MyJson+IJsonNode,lib40:MyJson.IJsonNode
+MyJson+JsonNode_Array,lib40:MyJson.JsonNode_Array
+MyJson+JsonNode_Object,lib40:MyJson.JsonNode_Array
+MyJson+JsonNode_ValueNumber,lib40:MyJson.JsonNode_Array
+MyJson+JsonNode_ValueString,lib40:MyJson.JsonNode_Array
 //RegDele
-=>CSLE.RegHelper_DeleAction`2[[System.Object],[System.EventArgs]]:System.EventHandler:EventHandler
+=>CSLE.RegHelper_DeleAction`2[[System.Object],[System.EventArgs]],lib40:System.EventHandler:EventHandler

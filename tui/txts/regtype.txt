@@ -4,5 +4,5 @@ Xamarin.Forms.Button,Xamarin.Forms.Core:Button
 Xamarin.Forms.Image,Xamarin.Forms.Core:Image
 Xamarin.Forms.Color,Xamarin.Forms.Core:Color
 System.Object:object
-System.EventHandler:EventHandler
+AppMix.App:App
 System.EventArgs:EventArgs

@@ -3,8 +3,19 @@ Xamarin.Forms.Page,Xamarin.Forms.Core:Page
 Xamarin.Forms.ContentPage,Xamarin.Forms.Core:ContentPage
 //RegControl
 Xamarin.Forms.View,Xamarin.Forms.Core:View
+//Control-ScrollView
+Xamarin.Forms.ScrollView,Xamarin.Forms.Core:ScrollView
+//Control-Grid
+Xamarin.Forms.Grid,Xamarin.Forms.Core:Grid
+Xamarin.Forms.ColumnDefinition,Xamarin.Forms.Core:ColumnDefinition
+Xamarin.Forms.RowDefinition,Xamarin.Forms.Core:RowDefinition
+Xamarin.Forms.GridLength,Xamarin.Forms.Core:GridLength
+Xamarin.Forms.GridUnitType,Xamarin.Forms.Core:GridUnitType
+//Control-Stack
 Xamarin.Forms.StackLayout,Xamarin.Forms.Core:StackLayout
+//Control-Button
 Xamarin.Forms.Button,Xamarin.Forms.Core:Button
+//Control-Image
 Xamarin.Forms.Image,Xamarin.Forms.Core:Image
 //RegOther
 Xamarin.Forms.FileImageSource,Xamarin.Forms.Core:FileImageSource
@@ -16,6 +27,7 @@ System.Object:object
 AppMix.App:App
 System.EventArgs:EventArgs
 //RegMyJson
+CSLEConvert,lib40:CSLEConvert
 MyJson,lib40:MyJson
 MyJson+jsontype,lib40:MyJson.jsontype
 MyJson+IJsonNode,lib40:MyJson.IJsonNode

@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>TypeScript HTML App</title>
+    <link rel="stylesheet" href="app.css" type="text/css" />
+    <script src="lighttool/jsloader.js"></script>
+    <script src="app.js"></script>
+</head>
+<body>
+    <div id="div top" style="position:absolute;left:0px;right:0px;top:0px; bottom:36px;">
+        <a> this is the menu</a>
+    </div>
+    <div id="div center" style="position:absolute;left:0;right:0;top:36px; bottom:40%;">
+        <div id="div doc" style="position:absolute;left:24%;right:24%;top:0px; bottom:0px;">
+            <canvas class="full" id="rendercanvas"></canvas>
+            <div id="loading" style="position:absolute">
+                <a>JS in loading...</a>
+            </div>
+        </div>
+        <div id="div left" style="position:absolute;left:0;top:0;bottom:0;width:24%">
+            <input type="file" id="openpic" />
+            <button id="savepic">saveFile</button>
+            <img id="pic" />
+
+        </div>
+    </div>
+    <div id="div code" style="position:absolute;left:0px;right:0px;top:60%; bottom:0px;">
+        <div style="position:absolute;width:24%;height:100%">
+            <div style="position:relative;height:24px">
+                <a>pass info</a>
+            </div>
+            <div style="position:absolute;width:100%; top:24px;bottom:0px">
+                <div id="editor" style="position:absolute;top:0px;left:0px;right:0px;bottom:0px"></div>
+            </div>
+        </div>
+        <div style="position:absolute;left:24%;width:38%;height:100%;float:left">
+            <a>pass vertex shader</a>
+            <div id="editor2" style="position:absolute;top:24px;left:0px;right:0px;bottom:0px"></div>
+        </div>
+        <div style="position:absolute;left:62%;width:38%;height:100%;">
+            <a>pass fragment shader</a>
+            <div id="editor3" style="position:absolute;top:24px;left:0px;right:0px;bottom:0px"></div>
+        </div>
+    </div>
+
+
+</body>
+</html>

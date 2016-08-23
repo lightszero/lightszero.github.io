@@ -1,0 +1,1 @@
+d:\electron\electron main.js --debug-brk=12345

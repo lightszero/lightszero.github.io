@@ -1,0 +1,6 @@
+D:\code.taobao.org\falconconv\trunk\babylonfan\webgl\webgl_light\lib_light\bin\lib_light.dll.config
+D:\code.taobao.org\falconconv\trunk\babylonfan\webgl\webgl_light\lib_light\bin\lib_light.dll
+D:\code.taobao.org\falconconv\trunk\babylonfan\webgl\webgl_light\lib_light\bin\lib_light.pdb
+D:\code.taobao.org\falconconv\trunk\babylonfan\webgl\webgl_light\lib_light\obj\Debug\lib_light.csprojResolveAssemblyReference.cache
+D:\code.taobao.org\falconconv\trunk\babylonfan\webgl\webgl_light\lib_light\obj\Debug\lib_light.dll
+D:\code.taobao.org\falconconv\trunk\babylonfan\webgl\webgl_light\lib_light\obj\Debug\lib_light.pdb

@@ -1,0 +1,2 @@
+D:\code.taobao.org\falconconv\trunk\babylonfan\webgl\webgl_light\webgl_light\obj\Debug\NodejsApp1.njsprojResolveAssemblyReference.cache
+D:\code.taobao.org\falconconv\trunk\babylonfan\webgl\webgl_light\webgl_light\bin\Microsoft.NodejsTools.WebRole.dll
